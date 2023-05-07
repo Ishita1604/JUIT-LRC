@@ -32,7 +32,7 @@ Provision to return books: The system also allows students to return books that 
 ## 📌 Output Snippet
 
 ![Simulation Output](https://github.com/Ishita1604/JUIT-LRC/blob/main/LRC-Output.png)
-![Simulation Video](https://github.com/Ishita1604/JUIT-LRC/blob/main/LRC-Video.mp4)
+![Simulation Video](LRC-Video.mp4)
 
 ## 📢 Contributors
 - [Ishita1604](https://github.com/Ishita1604)
